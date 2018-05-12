@@ -1,0 +1,37 @@
+_repo: San-Pantaleone_37123
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37123-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Annunzio, Gabriele d'
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2011-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37123'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: San Pantaleone -- Annali d'Anna -- L'idillio della vedova -- La siesta
+  -- La morte di Sancio Panza -- Il commiato -- La contessa d'Amalfi -- Turlendana
+  ritorna -- La fine di Candia -- I marenghi -- Mungià -- La fattura -- Il martirio
+  di Gialluca -- La guerra del ponte. Capitolo di cronaca pescarese -- L'eroe -- Turlendana
+  ebro -- San Làimo navigatore.
+title: San Pantaleone
+url: http://www.gutenberg.org/ebooks/37123
